@@ -5,7 +5,7 @@ A soon-to-be Front-end Developer and experienced Visual Designer / Digital Marke
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS, Javascript and React.js
 * 💞️ I’m looking to collaborate on future project involving design and all things web related!
-* 📫 Let's connect: hello@jennynguyenoberg.com or add me on LinkedIn https://linkedin.com/jennynguyenoberg
+* 📫 Let's connect: hello@jennynguyenoberg.com or add me on [LinkedIn](https://linkedin.com/jennynguyenoberg)
 
 <!--
 **jennynguyenoberg/jennynguyenoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
