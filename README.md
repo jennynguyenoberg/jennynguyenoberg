@@ -1,4 +1,4 @@
-### Hi, I'm Jenny Nguyen Öberg 👋
+### Hi, I'm Jenny 👋
 
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS, Javascript and React.js
