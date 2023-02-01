@@ -1,6 +1,6 @@
 ### Hi, I'm Jenny 👋
 
-A soon-to-be Front-end Developer and experienced Visual Designer / Digital Marketer.
+An aspiring Frontend Developer and experienced Visual Designer / Digital Marketer.
 
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS, Javascript and React.js
