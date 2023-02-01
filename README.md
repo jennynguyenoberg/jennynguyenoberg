@@ -1,6 +1,6 @@
 ### Hi, I'm Jenny 👋
 
-An aspiring Frontend Developer and experienced Visual Designer / Digital Marketer.
+Experienced Graphic Designer / Digital Marketer turning Frontend Developer student at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer)
 
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS, Javascript and React.js
