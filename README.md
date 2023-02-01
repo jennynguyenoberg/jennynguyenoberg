@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 👋 Hi, I’m @jennynguyenoberg
+* 👋 Hi, my name is Jenny Nguyen Öberg!
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS and Javascript
 * 💞️ I’m looking to collaborate on future project involving design and all things web related!
