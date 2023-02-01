@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 👋 Hi, I’m @jennynguyenoberg
+* 👀 I’m interested in frontend development, graphic design and content ideation
+* 🌱 I’m currently learning HTML, CSS and Javascript
+* 💞️ I’m looking to collaborate on future project involving design and all things web related!
+* 📫 How to reach me hello@jennynguyenoberg.com
+
 <!--
 **jennynguyenoberg/jennynguyenoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
