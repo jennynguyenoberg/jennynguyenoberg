@@ -5,7 +5,7 @@ Experienced Graphic Designer / Digital Marketer turning Frontend Developer stude
 * 👀 I’m interested in frontend development, graphic design and content ideation
 * 🌱 I’m currently learning HTML, CSS, Javascript and React.js
 * 💞️ I’m looking to collaborate on future project involving design and all things web related
-* 📫 Let's connect: hello@jennynguyenoberg.com or add me on [LinkedIn](https://linkedin.com/jennynguyenoberg)
+* 📫 Let's connect: hello@jennynguyenoberg.com or add me on <a href="https://linkedin.com/in/jennynguyenoberg" target="blank">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
