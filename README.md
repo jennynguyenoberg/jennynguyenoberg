@@ -5,7 +5,7 @@
 Experienced Graphic Designer / Digital Communicator turning Frontend Developer student at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer).
 
 * 👀 I’m interested in frontend development, graphic design and content ideation
-* 🌱 I’m currently learning HTML, CSS, Javascript and React.js
+* 🌱 I’m currently learning HTML, CSS, JavaScript and React
 * 💞️ I’m looking to collaborate on future project involving design and all things web related
 * 📫 Let's connect: hello@jennynguyenoberg.com or add me on [LinkedIn](https://linkedin.com/in/jennynguyenoberg)
 
