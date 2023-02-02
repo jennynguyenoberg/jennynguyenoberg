@@ -1,4 +1,4 @@
-![boilerplate](https://user-images.githubusercontent.com/116844306/216383870-a533fddf-1836-4307-b16d-6d9cbd42dd87.png)
+![heroimage](https://user-images.githubusercontent.com/116844306/216383870-a533fddf-1836-4307-b16d-6d9cbd42dd87.png)
 
 ### Hi, I'm Jenny 👋
 
