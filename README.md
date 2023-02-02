@@ -1,3 +1,5 @@
+![boilerplate](https://user-images.githubusercontent.com/116844306/216383870-a533fddf-1836-4307-b16d-6d9cbd42dd87.png)
+
 ### Hi, I'm Jenny 👋
 
 Experienced Graphic Designer / Digital Communicator turning Frontend Developer student at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer).
